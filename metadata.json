@@ -1,0 +1,5 @@
+{
+  "name": "Reel Creator UI",
+  "description": "A mobile-first replica of a social media reel creation interface featuring a sticky footer, rich form elements, and responsive layout.",
+  "requestFramePermissions": []
+}
